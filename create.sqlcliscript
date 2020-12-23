@@ -1,0 +1,2 @@
+.read be-covid19-vaxed.sql
+.save be-covid19-vaxed.sqlite3
